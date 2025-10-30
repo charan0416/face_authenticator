@@ -1,0 +1,7 @@
+Flask
+numpy
+opencv-python
+onnxruntime
+insightface
+scikit-learn
+pymilvus
